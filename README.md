@@ -1,2 +1,2 @@
-# Data-Analytics-for-Everyone
-Data Analytics for Everyone , Published by Packt
+# Data-Analytics-Made-Easy
+Data Analytics Made Easy, Published by Packt
