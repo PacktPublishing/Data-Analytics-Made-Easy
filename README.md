@@ -18,4 +18,7 @@ By the end of this book, you will have learned how to implement machine learning
 3. Use KNIME to import, clean, transform, combine data feeds, and automate recurring workflows
 4. Learn the basics of machine learning and AutoML to add value to your organization
 5. Build, test, and validate simple supervised and unsupervised machine learning models with KNIME
-6. Use Power BI and Tableau to build professional-looking and business-centric visuals and dashboards
+6. Use Power BI and Tableau to build professional-looking and business-centric visuals and dashboards### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801074155">https://packt.link/free-ebook/9781801074155 </a> </p>
